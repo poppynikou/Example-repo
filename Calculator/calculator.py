@@ -24,11 +24,14 @@ def addition(x,y):
     """
 
     # Ensure x is int or float
-    if type(x) != int or type(x) != float:
+    if not isinstance(x, int) and not isinstance(x, float):
         raise ValueError("Input must be an integer or float")
 
     # Ensure y is int or float
-    if type(y) != int or type(y) != float:
+    if not isinstance(y, int) and not isinstance(y, float):
         raise ValueError("Input must be an integer or float")
 
     return x+y 
+
+
+addition(int(2),int(3))
