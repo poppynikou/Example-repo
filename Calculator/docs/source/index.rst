@@ -11,7 +11,39 @@ Add your content using ``reStructuredText`` syntax. See the
 documentation for details.
 
 
+Setting-up
+=========================
+Learn how to install the package
+
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   
+   installationguide
+
+
+Calculator 
+====================
+Learn about the functionalities of Calculator
+
+.. toctree::
+   :maxdepth: 2
+   
+   Calculator
+
+User Guide 
+====================
+These pages provide example tutorials for using the package . 
+
+.. toctree::
+   :maxdepth: 2
+   
+   userguide
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
 
