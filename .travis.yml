@@ -27,5 +27,5 @@ install:
   
 script:
   - pip install .
-  - cd Calculator/test
+  - cd ./Calculator/test
   - pytest
