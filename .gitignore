@@ -2,6 +2,9 @@
 
 # Sphinx documentation
 Calculator/docs/_build/
+Calculator/docs/build/
+Calculator/docs/make.bat
+Calculator/docs/Makefile
 Calculator/doc/_build/
 maths/
 
