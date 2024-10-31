@@ -1,4 +1,4 @@
-from calculator import addition
+from ..calculator import addition
 from pytest import raises, mark
 
 #tests for travis
