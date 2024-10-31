@@ -1,7 +1,5 @@
 import numpy as np 
 
-
-
 # function which adds two numbers 
 def addition(x,y):
     """Adds x and y. 
